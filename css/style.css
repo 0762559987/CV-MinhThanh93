@@ -238,3 +238,6 @@ body {
   display: none;
 }
 
+a:hover  {
+  color: silver !important;
+}

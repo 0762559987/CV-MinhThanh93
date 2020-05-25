@@ -1,2 +1,1 @@
-# jobApplication.github.io
-Job Application - CV Minh Thanh
+# This is my CV online
